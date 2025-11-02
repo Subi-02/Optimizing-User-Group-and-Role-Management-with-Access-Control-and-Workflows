@@ -1,7 +1,11 @@
-Here you will find the pdf files about the Ideation Phase consists of
+Here you will find the pdf files about:
 
-1.Problem statement
+1.Ideation Phase
 
-2.Empathy Map Canvas
+2.Performance Testing
 
-3.Brainstorming
+3.Project Design Phase
+
+4.Project Planning Phase
+
+5.Requirement Analysis
