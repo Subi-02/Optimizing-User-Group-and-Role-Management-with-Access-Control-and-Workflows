@@ -1,4 +1,4 @@
-Here you will find the pdf files about:
+Here you will find the documents about:
 
 1.Ideation Phase
 
