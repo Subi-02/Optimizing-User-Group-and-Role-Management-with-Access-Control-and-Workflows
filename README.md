@@ -6,7 +6,7 @@ Team ID : NM2025TMID06157
 
 Team Size : 4
 
-Team Leader : habisha Lipna J
+Team Leader : Thabisha Lipna J
 
 Team member : SUBI K
 
